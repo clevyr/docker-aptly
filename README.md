@@ -1,6 +1,6 @@
 # Docker aptly
 
-[![Badge](https://images.microbadger.com/badges/image/clevyr/aptly.svg)](https://microbadger.com/images/clevyr/aptly "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/clevyr/aptly.svg)](https://microbadger.com/images/clevyr/aptly "Get your own image badge on microbadger.com")
 
 This is a Dockerized version of [aptly](https://aptly.info) to maintain APT repositories.
 
